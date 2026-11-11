@@ -123,7 +123,7 @@ git push
 https://github.com/adixtech/Task6-GitHub-Pages
 
 **Live Website:**  
-ADD YOUR ACTUAL GITHUB PAGES URL AFTER DEPLOYMENT.
+https://adixtech.github.io/Task6-GitHub-Pages/
 
 ## Screenshots and Evidence
 Screenshots will be added after completing each deployment stage.
@@ -175,3 +175,19 @@ This project helped me understand the fundamentals of website hosting and Git-ba
 **Project:** DevOps Internship – Task 6  
 **Developer:** AdixTech  
 **GitHub:** https://github.com/adixtech
+
+## Deployment Evidence
+### 1. Local Website
+![Local Website](screenshots/01-local-website.png)
+
+### 2. GitHub Repository
+![GitHub Repository](screenshots/02-github-repository.png)
+
+### 3. GitHub Pages Configuration
+![GitHub Pages Settings](screenshots/03-github-pages-settings.png)
+
+### 4. Live Website
+![Live Website](screenshots/04-live-website.png)
+
+### 5. Successful Deployment
+![Deployment Success](screenshots/05-deployment-success.png)
